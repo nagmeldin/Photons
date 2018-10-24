@@ -54,14 +54,22 @@
 		BACFCBB42181065300272606 /* Photons */ = {
 			isa = PBXGroup;
 			children = (
-				BACFCBB52181065300272606 /* AppDelegate.swift */,
+				BACFCBC72181075400272606 /* Supporting Files */,
 				BACFCBB72181065300272606 /* ViewController.swift */,
 				BACFCBB92181065300272606 /* Main.storyboard */,
 				BACFCBBC2181065400272606 /* Assets.xcassets */,
-				BACFCBBE2181065400272606 /* LaunchScreen.storyboard */,
 				BACFCBC12181065400272606 /* Info.plist */,
 			);
 			path = Photons;
+			sourceTree = "<group>";
+		};
+		BACFCBC72181075400272606 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				BACFCBB52181065300272606 /* AppDelegate.swift */,
+				BACFCBBE2181065400272606 /* LaunchScreen.storyboard */,
+			);
+			path = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
